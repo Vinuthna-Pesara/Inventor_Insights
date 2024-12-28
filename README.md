@@ -1,8 +1,8 @@
-**Inventor ChatBot**
+### **Inventor ChatBot**
 An AI-driven chatbot application built with Flask and Python, designed to provide detailed information about inventors and their inventions.
 The chatbot fetches data from Wikipedia and processes user queries using natural language processing techniques.
 
-# Features
+## Features
 
   - **Wikipedia Integration**
     - Retrieves summarized information about inventors from Wikipedia.
